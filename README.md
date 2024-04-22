@@ -1,2 +1,2 @@
 # serverSharp
-webserver written in C#
+webserver written in C#.
