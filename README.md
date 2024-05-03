@@ -3,7 +3,7 @@ webserver written in C#.
 
 # server output
 
-![image](https://github.com/equqe/serverSharp/assets/145790372/ff1df39d-2bea-49fa-af5a-00b5a40b3d79)
+![image](https://github.com/equqe/server-sharp/assets/145790372/b9125545-15b4-4eaf-8b26-2ad794efec33)
 
 # page render
 
